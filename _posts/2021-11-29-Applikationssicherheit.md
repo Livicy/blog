@@ -45,7 +45,7 @@ In dieser Tabelle wird jeweils angegeben, welches Schutzziel betroffen ist:
 # Risiko #
 Folgender Sachverhalt besteht:
 
->*Sie besitzen ein günstiges und ein teures Fahrrad und haben jeweils in einem Stadtteil mit niedriger und einem mit hoher Kriminalitätsrate zu tun. Sie haben Angst, dass die >Fahrräder gestohlen werden könnten.*
+>*Sie besitzen ein günstiges und ein teures Fahrrad und haben jeweils in einem Stadtteil mit niedriger und einem mit hoher Kriminalitätsrate zu tun. Sie haben Angst, dass die Fahrräder gestohlen werden könnten.*
 
 Dies ist ein gutes Beispiel, wie Risiken abgeschätzt werden. In der Informatik kann nicht immer jedes Problem behoben werden, zum Beispiel aus zeitlichen oder finanziellen Gründen. Deshalb wird geschaut, welches Problem am wichtigsten zum Beheben ist.
 
