@@ -45,11 +45,11 @@ Folgender Sachverhalt besteht:
 Dies ist ein gutes Beispiel, wie Risiken abgeschätzt werden. In der Informatik kann nicht immer jedes Problem behoben werden, zum Beispiel aus zeitlichen oder finanziellen Gründen. Deshalb wird geschaut, welches Problem am wichtigsten zum Beheben ist.
 
 Man kann dies also auflisten, wie in diesem Bild:
-![Bild](/assets/images/bild.png)
+![bild](https://user-images.githubusercontent.com/54060230/143895572-2dd6bc60-b9c7-41ce-8cc0-9d9fb90b93aa.png)
 
 Oder als Matrix darstellen:
 
-![Matrix](/assets/images/matrix.png)
+![matrix](https://user-images.githubusercontent.com/54060230/143895432-c68c60c5-d238-46cd-986b-6a0233d8b85d.png)
 
 
 #Verifizierung und Reflektion#
