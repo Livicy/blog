@@ -45,6 +45,7 @@ Folgender Sachverhalt besteht:
 Dies ist ein gutes Beispiel, wie Risiken abgeschätzt werden. In der Informatik kann nicht immer jedes Problem behoben werden, zum Beispiel aus zeitlichen oder finanziellen Gründen. Deshalb wird geschaut, welches Problem am wichtigsten zum Beheben ist.
 
 Man kann dies also auflisten, wie in diesem Bild:
+
 ![bild](https://user-images.githubusercontent.com/54060230/143895572-2dd6bc60-b9c7-41ce-8cc0-9d9fb90b93aa.png)
 
 Oder als Matrix darstellen:
@@ -53,3 +54,6 @@ Oder als Matrix darstellen:
 
 
 #Verifizierung und Reflektion#
+Mein Ziel, dem Leser einen Überblick zu verschaffen habe ich erreicht, da ich die wichtigsten Begriffe erklärt habe und ein Fallbespiel zum Risiko gemacht habe.
+
+Leider habe ich mein letztes Ziel noch nicht ganz erreicht, deshalb möchte ich versuchen, den Verbesserungsvorschlag von letzem Mal noch einmal mir vorzunehmen und besser zu schaffen. Ich habe immernoch Mühe, dass ich zu schnell aufgebe und nicht dran bleibe bei Fehler. Auch sollte ich wohl ein wenig mehr fragen, wenn ich etwas nicht verstehe. Zudem habe ich ein wenig Mühe, lange zuzuhören wenn Code erklärt wird und verliere dann den Anschluss. Ich denke, es wäre besser für mich, die Aufträge zuerst selbstständig lösen zu versuchen und dann konkrete Fragen zu stellen, anstatt einfach der Erklärung wie es gemacht wird zuzuhören. Dies möchte ich auch noch in mein Arbeitsverhalten einbauen.
