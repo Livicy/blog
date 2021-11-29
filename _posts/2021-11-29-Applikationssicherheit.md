@@ -53,7 +53,7 @@ Oder als Matrix darstellen:
 ![matrix](https://user-images.githubusercontent.com/54060230/143895432-c68c60c5-d238-46cd-986b-6a0233d8b85d.png)
 
 
-#Verifizierung und Reflektion#
+# Verifizierung und Reflektion #
 Mein Ziel, dem Leser einen Überblick zu verschaffen habe ich erreicht, da ich die wichtigsten Begriffe erklärt habe und ein Fallbespiel zum Risiko gemacht habe.
 
 Leider habe ich mein letztes Ziel noch nicht ganz erreicht, deshalb möchte ich versuchen, den Verbesserungsvorschlag von letzem Mal noch einmal mir vorzunehmen und besser zu schaffen. Ich habe immernoch Mühe, dass ich zu schnell aufgebe und nicht dran bleibe bei Fehler. Auch sollte ich wohl ein wenig mehr fragen, wenn ich etwas nicht verstehe. Zudem habe ich ein wenig Mühe, lange zuzuhören wenn Code erklärt wird und verliere dann den Anschluss. Ich denke, es wäre besser für mich, die Aufträge zuerst selbstständig lösen zu versuchen und dann konkrete Fragen zu stellen, anstatt einfach der Erklärung wie es gemacht wird zuzuhören. Dies möchte ich auch noch in mein Arbeitsverhalten einbauen.
