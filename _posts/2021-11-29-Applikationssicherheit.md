@@ -20,11 +20,11 @@ Beschreibt die Verfügbarkeit von Prozessen, Informationen und Daten.
 ### Beispiel ###
 Dies sind Fälle, welche die Schutzziele angreifen:
 
-*a) Durch eine DDOS -Attacke wird die Applikation mit Anfragen überflutet und lahmgelegt.
-b) Durch Phishing wird das Passwort eines Mitarbeiters gestohlen.
-c) Ein Angreifer platziert ein Gerät im Firmennetzwerk, dass den Netzwerkverkehr protokolliert.
-d) Ein Angreifer erhält Zugriff auf die Artikel-Datenbank und passt Werte für die Applikation an.
-e) Über eine XSS-Attacke wird eine Session eines Mitarbeiters gestohlen.*
+*a) Durch eine DDOS -Attacke wird die Applikation mit Anfragen überflutet und lahmgelegt.*
+*b) Durch Phishing wird das Passwort eines Mitarbeiters gestohlen.*
+*c) Ein Angreifer platziert ein Gerät im Firmennetzwerk, dass den Netzwerkverkehr protokolliert.*
+*d) Ein Angreifer erhält Zugriff auf die Artikel-Datenbank und passt Werte für die Applikation an.*
+*e) Über eine XSS-Attacke wird eine Session eines Mitarbeiters gestohlen.*
 
 In dieser Tabelle wird jeweils angegeben, welches Schutzziel betroffen ist:
 
